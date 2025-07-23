@@ -1,12 +1,49 @@
-# React + Vite
+# 🛠️ Assembly | React + Vite Starter Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal React + Vite boilerplate built for fast iteration, clean structure, and ESLint-backed code hygiene. Perfect for beginners and pros alike who want a lightweight setup for frontend exploration.
 
-Currently, two official plugins are available:
+This project serves as your **go-to starter**—whether you're building a new UI or tinkering with component logic, Assembly keeps things flexible and efficient.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Deployed soon (add link here once published)  
+👀 Explore locally: `npm run dev`
+
+---
+
+## 🔧 Features
+
+- ⚡ **Vite** for instant HMR and fast refresh
+- 💡 **React** for modular UI building
+- ✅ **ESLint** with default rules for linting
+- 🧹 Pre-configured project scaffolding (src, components, styles)
+
+---
+
+
+---
+
+## 🧱 Stack
+
+| Tech        | Usage                       |
+|-------------|-----------------------------|
+| React       | UI structure and rendering  |
+| Vite        | Build tool & dev server     |
+| ESLint      | Code style & syntax checks  |
+| CSS         | Base styling                |
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/harshit7217/Assembly.git
+cd Assembly
+npm install
+npm run dev
+
+
+
+Want help branding this starter for publication, or designing a custom homepage for Assembly? I’d love to help you polish it up and tweet about it 🚀
