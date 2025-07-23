@@ -8,7 +8,7 @@ This project serves as your **go-to starter**—whether you're building a new UI
 
 ## 🌐 Live Demo
 
-🚀 Deployed soon (add link here once published)  
+🚀 Deployed link : https://assembly0.netlify.app/ 
 👀 Explore locally: `npm run dev`
 
 ---
